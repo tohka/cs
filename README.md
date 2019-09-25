@@ -1,1 +1,1 @@
-# cs
+- [wiki](https://github.com/tohka/cs/wiki)
